@@ -24,3 +24,5 @@ https://code.visualstudio.com/docs/remote/attach-container
 
 # Docker compose
 docker-compose --profile airflow up
+
+# commit to Git as EKG-101

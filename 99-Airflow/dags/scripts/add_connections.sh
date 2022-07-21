@@ -2,7 +2,7 @@ airflow connections delete 'http_api'
 airflow connections delete 'pg_conn'
 
 
-airflow connections add 'http_api' --conn-type 'http' --conn-host 'raw.githubusercontent.com/tadinve/EKG-Foundations/master/04A-postgress/'
+airflow connections add 'http_api' --conn-type 'http' --conn-host 'raw.githubusercontent.com/LSabnani/EKG-Foundations/master/04%20-Postgress/'
 
 
 airflow connections add pg_conn \
